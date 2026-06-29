@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2d0024/WYG/v1/juan/90
+seq: 90
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2d0024_WYG_090-1a, image: WYG0405/WYG0405-0547c.png}
+body:
+  text: 尚史巻九十一表五鑲白旗漢軍李鍇撰周異姓諸侯年表下尚史卷九十一
+  hash: sha256:fd1b69e9dcba109717f4f8d130e8adb1231bf329bdab72e79bc23cec47f2f325
+metadata:
+  title: 尚史
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:29:42.432466'
+  juan_title: 卷九十一
+  source:
+    repository: kanripo
+    path: KR2d0024/KR2d0024_090.txt
+hash: sha256:2cd532b19209772c838d0afac27ddac76c0e340a18234111e097050072c703e1

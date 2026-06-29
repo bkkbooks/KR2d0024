@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2d0024/krp/v1/juan/91
+seq: 91
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2d0024_WYG_091-1a, image: WYG0405/WYG0405-0567a.png}
+body:
+  text: 尚史卷九十二表六鑲白旗漢軍李鍇撰戰國年表夫漓王風而作僞者霸也破霸而以詐力重者戰國之變也戰國變而天紀絶人心危傾詖不嫌于誣恫疑不嫌于喝當是時衡固益彊縱將餌弱六國委肉餓秦必無幸矣使韓魏之主疏知抉隱塞利守信結反覆之舌開仁義之門寄政于內協鄰于外夫如是則守封不亡韓魏不亡秦不得帝舊防無用制水有餘此之謂夫秦紀與六國世家事年多舛今參用之始皇用紀魯宋後亡衛訖二世别釐出之作戰國年表尚史卷九十二
+  hash: sha256:97787f6f8f6cc2774b4eca04377c6fec92236d5e42ee4711f48a26c74c74c317
+metadata:
+  title: 尚史
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:29:42.432466'
+  juan_title: 卷九十二
+  source:
+    repository: kanripo
+    path: KR2d0024/KR2d0024_091.txt
+hash: sha256:03cb7525a6cd1ea6ab2081216d82e032b10aa457a36174481f5ab24e35d18845

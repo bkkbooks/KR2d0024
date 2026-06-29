@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2d0024/krp/v1/juan/88
+seq: 88
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2d0024_WYG_088-1a, image: WYG0405/WYG0405-0500a.png}
+body:
+  text: 尚史卷八十九表三鑲白旗漢軍李鍇撰周同姓諸侯年表下尚史卷八十九
+  hash: sha256:aa9e4d65659503d81594be1488d29b7927a671517d50c288d2b107332133c67e
+metadata:
+  title: 尚史
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:29:42.432466'
+  juan_title: 卷八十九
+  source:
+    repository: kanripo
+    path: KR2d0024/KR2d0024_088.txt
+hash: sha256:275dfaf806863774d87faa481689c5a81e6a01c00156739b99d47feb000489e6
