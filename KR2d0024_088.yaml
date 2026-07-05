@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2d0024_WYG_088-1a, image: WYG0405/WYG0405-0500a.png}
 body:
-  text: 尚史卷八十九表三鑲白旗漢軍李鍇撰周同姓諸侯年表下尚史卷八十九
-  hash: sha256:aa9e4d65659503d81594be1488d29b7927a671517d50c288d2b107332133c67e
+  text: 尚史卷八十九表三鑲白旗漢軍李鍇撰周同姓諸侯年表下尚史巻八十九
+  hash: sha256:5c854cc30d7e779fb66765c01c940199f3ec7f3a1756fdd5c77dc00e11e887d3
 metadata:
   title: 尚史
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2d0024/KR2d0024_088.txt
-hash: sha256:275dfaf806863774d87faa481689c5a81e6a01c00156739b99d47feb000489e6
+hash: sha256:0dc62b6b99746b9172951a0dffad3fa5294fb472dceeb7aad42e3f581b7cb50b

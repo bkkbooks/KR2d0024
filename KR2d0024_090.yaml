@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2d0024_WYG_090-1a, image: WYG0405/WYG0405-0547c.png}
 body:
-  text: 尚史卷九十一表五鑲白旗漢軍李鍇撰周異姓諸侯年表下尚史卷九十一
-  hash: sha256:534f468edc2855d920323bc0cdb24ab874afe4573ea5ccd810453c06b3502ea7
+  text: 尚史巻九十一表五鑲白旗漢軍李鍇撰周異姓諸侯年表下尚史卷九十一
+  hash: sha256:fd1b69e9dcba109717f4f8d130e8adb1231bf329bdab72e79bc23cec47f2f325
 metadata:
   title: 尚史
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2d0024/KR2d0024_090.txt
-hash: sha256:bbf90306d7fbbe63d6ae9716c4507807249ef013a3f7052e9d128c9eb28ecdd8
+hash: sha256:c69e7797d4bf40779b8064309272eea99c5f44a3fc3c7c94063fbea0dbb9e2c8
